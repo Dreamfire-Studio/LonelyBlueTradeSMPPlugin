@@ -1,0 +1,5 @@
+name: LonelyBlueTradeSMPPlugin
+version: 1.0.0-SNAPSHOT
+main: com.dreamfirestudios.lonelybluetradesmpplugin.LonelyBlueTradeSMPPlugin
+api-version: 1.21
+depend: [DreamCore, DreamConfig, DreamCommand, ProtocolLib, LuckPerms, PlaceholderAPI]
